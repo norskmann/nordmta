@@ -1,0 +1,15 @@
+<meta>
+	<info author="norskman" type="script" name="nord_fonts" version="1.0" />
+
+	<script src="c.lua" type="client" cache="false" />
+
+	<file src="Manrope-Bold.ttf"/>
+	<file src="Manrope-ExtraBold.ttf"/>
+	<file src="Manrope-ExtraLight.ttf"/>
+	<file src="Manrope-Light.ttf"/>
+	<file src="Manrope-Medium.ttf"/>
+	<file src="Manrope-Regular.ttf"/>
+	<file src="Manrope-SemiBold.ttf"/>
+
+	<export function="getFont" type="client" />
+</meta>
