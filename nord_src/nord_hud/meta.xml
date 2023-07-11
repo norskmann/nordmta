@@ -1,0 +1,9 @@
+<meta>
+    <info author="norskman"/>
+
+    <script src="commas.lua" type="client" cache="false" />
+    <script src="c.lua" type="client" cache="false" />
+    <script src="cache.lua" type="client" cache="false" />
+
+    <file src="images/noavatar.png"/>
+</meta>
